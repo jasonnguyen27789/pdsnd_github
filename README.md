@@ -6,6 +6,9 @@ August.24 2024
 ### Author
 hungnd27789
 
+### Email
+hung27789@gmail.com
+
 ### Project Title
 Explore US Bikeshare Data
 
